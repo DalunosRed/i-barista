@@ -1,0 +1,7 @@
+{
+  "name": "i-barista",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
